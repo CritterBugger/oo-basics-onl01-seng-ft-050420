@@ -8,4 +8,8 @@ class Shoe
     @brand = new_brand
   end
   
+  def cobble
+    puts
+    @condition = "new"
+  end
 end
